@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.deps.json
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.pdb
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Repositorio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Repositorio.pdb
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.pdb
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.csproj.CopyComplete
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.RegraNegocio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.RegraNegocio.pdb

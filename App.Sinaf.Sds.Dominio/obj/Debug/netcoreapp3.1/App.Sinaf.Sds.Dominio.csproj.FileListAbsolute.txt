@@ -1,0 +1,9 @@
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.deps.json
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\bin\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.pdb
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.dll
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.pdb
+C:\Users\Daniel\source\repos\App.Sinaf.Sds\App.Sinaf.Sds.Dominio\obj\Debug\netcoreapp3.1\App.Sinaf.Sds.Dominio.csprojAssemblyReference.cache
